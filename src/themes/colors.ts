@@ -1,0 +1,24 @@
+const COLORS = {
+  WHITE: '#ffffff',
+  BLACK: '#000000',
+  RED: '#CC1533',
+  GRAY: '#D9D9D9',
+  TRANSPARENT: '#00000000',
+  BLACK_SHADE_1: '#272E3F',
+  WHITE_OPACITY_3: 'rgba(255, 255, 255, 0.3)',
+  GRAY_OPACITY: 'rgba(217, 217, 217, 0.11)',
+  BLACK_OPACITY_2: 'rgba(0, 0, 0, 0.2)',
+  BORDER_COLOR: '#EBEDF0',
+  GRAY_DARK: '#5A5A5A',
+  BLUE_STONE: '#007c83',
+  GRAY_LIGHT: '#f2f2f2',
+  TAB_BG_COLOR: '#312e2b',
+  GRAY_LIGHTER: '#999999',
+  LIGHT_GREEN: '#96bc4b',
+  DARK_YELLOW: '#F7B84F',
+  BLUE_LIGHT: '#4F8CF7',
+  PURPLE_LIGHT: '#822FEC',
+  PINK_LIGHT: '#ff99cc',
+};
+
+export default COLORS;
